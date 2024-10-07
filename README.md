@@ -1,4 +1,12 @@
 ## Hi there 👋
+hola soy luca y este es mi perfil por si alguien  me busca los amo 😍
+
+⚽ I love to play the soccer
+
+😁 I am so happy
+
+🎮I love to play videogames 
+
 
 <!--
 **vlGangsterl/vlGangsterl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
